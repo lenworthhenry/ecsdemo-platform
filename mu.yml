@@ -4,3 +4,5 @@ environments:
     provider: ecs-fargate
   - name: production
     provider: ecs-fargate
+extensions:
+- url: https://github.com/stelligent/mu-datadog/archive/v0.1.zip
